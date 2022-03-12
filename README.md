@@ -1,4 +1,4 @@
-# yellow_taxi_in_new_york
+# yellow-taxi-ny
 https://mybinder.org/v2/gh/farimano/yellow_taxi_in_new_york/4e8c3a501a34bc5cec0842c7b3986aa9205a9681 - you can see demonstration here. You just need to open Project.ipynb and run all cells.  
   
 Demonstration of the model for the prediction of the number of taxi cars for specific district. The model does 1-6 hours predictions on june of 2016. This demonstration have three interactive elements:  
